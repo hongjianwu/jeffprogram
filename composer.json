@@ -1,0 +1,10 @@
+{
+    "name": "test/prgoram",
+    "authors": [
+        {
+            "name": "洪建武",
+            "email": "jianwu@webapp.com"
+        }
+    ],
+    "require": {}
+}
