@@ -6,5 +6,11 @@
             "email": "jianwu@webapp.com"
         }
     ],
+    "autoload": {
+		"psr-4": {
+			"myframework\\": "src/",
+			"Vendor\\Namespace\\": ""
+		}
+	 },
     "require": {}
 }
